@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace CoDServer
 {
-    // Get inputs from localhost:63999
-    class WebServer
+    abstract class Unit
     {
+    }
+
+    class Peasant : Unit
+    {
+
     }
 }
