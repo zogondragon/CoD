@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace CoDServer
 {
-    abstract class Unit
+    class GameEngine
     {
-    }
-
-    class Peasant : Unit
-    {
-
     }
 }
