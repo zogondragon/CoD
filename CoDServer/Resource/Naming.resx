@@ -121,4 +121,7 @@
     <value>Shadowless Spear</value>
     <comment>無影槍</comment>
   </data>
+  <data name="ZhangSanfeng" xml:space="preserve">
+    <value>Zhang Sanfeng</value>
+  </data>
 </root>
