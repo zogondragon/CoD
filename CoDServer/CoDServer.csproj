@@ -44,6 +44,7 @@
     <Compile Include="GameEngine.cs" />
     <Compile Include="Items\Item.cs" />
     <Compile Include="Items\Weapon.cs" />
+    <Compile Include="Maps\StrategyMap.cs" />
     <Compile Include="Resource\Naming.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

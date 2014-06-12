@@ -6,10 +6,18 @@ using System.Threading.Tasks;
 
 namespace CoDServer.Items
 {
-    public enum WeaponType
+    
+    public enum WeaponRange
     {
-        OneHanded,
-        TwoHanded
+        CloseContactRange,      // Fist, Kick
+        ShortMeleeRange,        // Dagger, Shortsword
+        LongMeleeRange,         // Longsword, Bastardsword 
+        SpearRange,             // Spear, Greatsword
+        PikeRange,              // Pike, Sarissa
+        ShortProjectileRange,   // Shuriken, Throwing Dagger
+        MediumProjectileRange,  // Shortbow, Crossbow, Handgun
+        LongProjectileRange,    // Longbow, Musket, Rifle
+        IndirectFireRange       // Cannon, Trebuchet, Magic
     }
     
     public abstract class Weapon : Item

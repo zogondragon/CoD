@@ -8,7 +8,7 @@ namespace CoDServer.Items
 {
     // Characters and units equip and use items.
     // Item is classified by slots (head, body, hands, feet)
-    abstract class Item
+    public abstract class Item
     {
     }
 }

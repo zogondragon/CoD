@@ -29,7 +29,14 @@ namespace CoDServer
         }
     }
 
+    // For web-browser client.
+    public class HTTPServerInterface : ServerInterface
+    {
+        // TODO: implement this
+    }
+    
     // Gets command from console, return the result to stdout
+    // Single player!
     public class ConsoleServerInterface : ServerInterface
     {
         public override string ReadLine()
