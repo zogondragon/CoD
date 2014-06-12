@@ -61,6 +61,33 @@ namespace CoDServer.Resource {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to The Dragon Slaying Saber.
+        /// </summary>
+        public static string DragonSaber {
+            get {
+                return ResourceManager.GetString("DragonSaber", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The Heaven Reliant Sword.
+        /// </summary>
+        public static string HeavenSword {
+            get {
+                return ResourceManager.GetString("HeavenSword", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Jin Yong.
+        /// </summary>
+        public static string JinYong {
+            get {
+                return ResourceManager.GetString("JinYong", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Shadowless Spear.
         /// </summary>
         public static string ShadowlessSpear {
@@ -75,6 +102,24 @@ namespace CoDServer.Resource {
         public static string ZhangSanfeng {
             get {
                 return ResourceManager.GetString("ZhangSanfeng", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Zhang Wuji.
+        /// </summary>
+        public static string ZhangWuji {
+            get {
+                return ResourceManager.GetString("ZhangWuji", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Zhu Yuanzhang.
+        /// </summary>
+        public static string ZhuYuanzhang {
+            get {
+                return ResourceManager.GetString("ZhuYuanzhang", resourceCulture);
             }
         }
     }

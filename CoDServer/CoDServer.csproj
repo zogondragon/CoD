@@ -64,6 +64,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Clans\Clans.md" />
+    <None Include="Events\Events.md" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resource\Naming.ko-KR.resx">

@@ -117,11 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="DragonSaber" xml:space="preserve">
+    <value>도룡도</value>
+    <comment>도룡도</comment>
+  </data>
+  <data name="HeavenSword" xml:space="preserve">
+    <value>의천검</value>
+    <comment>의천검</comment>
+  </data>
+  <data name="JinYong" xml:space="preserve">
+    <value>김용</value>
+    <comment>김용 (Louis Cha)</comment>
+  </data>
   <data name="ShadowlessSpear" xml:space="preserve">
     <value>무영창</value>
     <comment>無影槍</comment>
   </data>
   <data name="ZhangSanfeng" xml:space="preserve">
     <value>장삼봉</value>
+  </data>
+  <data name="ZhangWuji" xml:space="preserve">
+    <value>장무기</value>
+    <comment>장무기</comment>
+  </data>
+  <data name="ZhuYuanzhang" xml:space="preserve">
+    <value>주원장</value>
+    <comment>주원장</comment>
   </data>
 </root>
