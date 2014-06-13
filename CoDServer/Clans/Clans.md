@@ -17,3 +17,6 @@ Many different clans have different traditions, different skills, and different 
 
 ## Examples
 
+### Ming Cult (명교)
+
+### Beggar's Sect (개방)
