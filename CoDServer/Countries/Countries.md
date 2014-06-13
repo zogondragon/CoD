@@ -6,14 +6,21 @@ Empires, kingdoms, and countries! The majority ethnic group is described as (thi
 In CoD, any country can be the Middle Kingdom of China. However, there are certain conditions to become the Middle Kingdom. 
 
 ## Yuan Empire (Mongolian)
+大元帝國. 
+
+### Brief History from AD 1255 to AD 1468
+
 
 ## Ming Empire (Han)
+大明帝國. 
 
-## Korea (Korean)
+## Goryeo (Korean)
+고려.
 
 ## Chosun (Korean)
+조선.
 
-## Kamakura Bakuhu (Japanese)
+## Kamakura Bakufu (Japanese)
 
 ## (to be added)
 
